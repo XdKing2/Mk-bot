@@ -4,6 +4,7 @@ Mk-bot is a WhatsApp bot script developed by an owner named Malvin King (XdKing2
 2. Online 24 hours non-stop
 3. Support case plugin 
 4. 100% code without enc
+5. Edded SESSION_ID support
 
 ~> Note
 1. this script does not contain malware, backdoors or anything that is detrimental to its users
